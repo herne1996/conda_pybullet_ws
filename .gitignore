@@ -1,0 +1,16 @@
+# Conda / Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.conda/
+.ipynb_checkpoints/
+
+# VS Code / IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
